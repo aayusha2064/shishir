@@ -1,0 +1,188 @@
+
+
+
+.nav{
+	display: flex;
+}
+#text .bad{
+	background-color: yellow;
+}
+.nav a{
+	padding: 2rem 6.2rem;
+	margin: 1.5rem 0rem;
+	text-decoration: none;
+	font-size: 1.1rem;
+	
+} 
+.nav a:hover{
+	color: #041562;
+
+}
+.nav img{
+	height: 7.5rem;
+	width: auto;
+	margin: 0rem 2rem;
+	box-shadow: 1rem;
+}
+.para p{
+	text-align: center;
+font-size: 23px;
+color: yellow;
+	}
+.bed img{
+height: 15rem;
+width: 13rem;
+padding:3rem 3rem ;
+}
+.hand img{
+height: 15rem;
+width: 13rem;
+display: flex;	
+}
+.doctor p{
+	font-size: 24px;
+
+}
+.doctor ul{
+	font-size: 20px;
+	margin: 1.1rem;
+	color: blue;
+	margin: 0.4rem;
+}
+
+.aay{
+	font-size: 18px;
+	display: flex;
+}
+
+.kt{
+	font-size: 18px;
+	
+	display: flex;
+	margin: 0.6rem;
+}
+.doc{
+	font-size: 20px;
+	margin: 1.1rem;
+	color: blue;
+	margin: 0.4rem;
+}
+.kt img{
+	padding: 0.8rem;
+}
+.aay img{
+	padding: 1.3rem;
+}
+.para{
+	min-height:30rem;
+	width: 100%;
+	background-image: url('../image/hd.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.dct a{
+	padding: 0rem 6.2rem;
+	margin: 1.5rem 0rem;
+	text-decoration: none;
+	font-size: 1.1rem;
+	background-color: yellow;
+	width: 100%;
+	min-height:5rem ;
+} 
+.dct a:hover{
+	color: #041562;
+}
+.lala a{
+	padding: 0rem 6.2rem;
+	margin: 1.5rem 0rem;
+	text-decoration: none;
+	font-size: 1.1rem;
+	background-color: yellow;
+	width: 100%;
+	min-height:5rem ;
+} 
+.lala a:hover{
+	color: #041562;
+}
+.con a{
+	padding: 0rem 6.2rem;
+	margin: 1.5rem 0rem;
+	text-decoration: none;
+	font-size: 1.1rem;
+	background-color: yellow;
+	width: 100%;
+	min-height:5rem ;
+} 
+.con a:hover{
+	color: #041562;
+}
+.para p{
+	text-align: justify;
+	padding: 6rem 16rem;
+}
+.header p{
+	font-size: 20px;
+}
+.one{
+	display: flex;
+	text-align: justify;
+	font-size: 20px;
+}
+.one img{
+	margin: 0rem 2rem;
+	height: 6rem;
+padding: 0 3rem;
+}
+.serv img{
+	margin: 0rem 2rem;
+	height: 11rem;
+padding: 0 0.8rem;
+}
+.serv ul{
+font-size: 22px;
+font-style: italic;
+}
+.serv{
+	display: flex;
+}
+.header p{
+	font-size: 28px;
+	font-style: italic;
+	color: yellow;
+}
+.header{
+	min-height:30rem;
+	width: 100%;
+	background-image: url('../image/why.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 1rem 1rem;
+}
+.third img{
+	margin: 0rem 2rem;
+	height: 11rem;
+padding: 0 0.8rem;
+}
+.third p{
+	font-size:22px ;
+	font-style: italic;
+}
+.terr ul{
+	font-size: 20px;
+	margin: 1.1rem;
+	color: blue;
+	margin: 0.4rem;
+}
+.kta img{
+	padding: 1.3rem;
+}
+.kta{
+	display: flex;
+	margin: 1rem 1rem;
+	font-size: 17px;
+}
+.last p{
+	font-size:22px ;
+}
